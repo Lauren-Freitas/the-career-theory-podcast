@@ -16,7 +16,7 @@ O objetivo deste projeto é demonstrar como a tecnologia e a IA podem ser aplica
 ## 🛠️ Ferramentas utilizadas
 
 - **ChatGPT**: Criação de roteiros e prompts
-- **Midjourney**: Geração da capa do podcast
+- **Midjourney**: Geração da capa futurista geek
 - **ElevenLabs**: Geração da voz humanizada para o episódio
 - **Notion**: Organização do projeto
 - **GitHub**: Versionamento dos arquivos
@@ -45,9 +45,9 @@ README.md
 
 > "Você é um roteirista de podcast. Vamos criar um podcast de carreira e tecnologia, focado em automação de criação de currículos e LinkedIn para o mercado internacional. Formato: [INTRODUÇÃO], [DICA 1], [DICA 2], [FINALIZAÇÃO]. Estilo descontraído, máximo 5 minutos de duração."
 
-### 🎨 Criação da Capa (Bing Image Creator)
+### 🎨 Criação da Capa (Midjourney)
 
-> "Create a minimalist and tech-inspired podcast cover titled 'The Career Theory Podcast'. Black and white theme, grayscale palette, dark futuristic background, subtle glowing elements, elegant and modern style. Centered glowing text, cinematic soft lighting, ultra-detailed, proportion 1:1."
+> "Create a futuristic and geek-inspired podcast cover titled 'The Career Theory Podcast'. Grayscale and muted neon accents, dark sci-fi background with holographic and cosmic elements. Blend minimalist design with subtle references to technology, innovation, and space. Include sleek lines, abstract cityscapes, stars, circuits, and digital grids. Centered glowing text with a modern and clean font. Cinematic soft lighting, high contrast details, hyper-realistic textures, ultra-detailed composition, proportion 1:1."
 
 ### 🎹 Geração da Voz (ElevenLabs)
 
