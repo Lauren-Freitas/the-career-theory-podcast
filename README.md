@@ -16,7 +16,7 @@ O objetivo deste projeto é demonstrar como a tecnologia e a IA podem ser aplica
 ## 🛠️ Ferramentas utilizadas
 
 - **ChatGPT**: Criação de roteiros e prompts
-- **Bing Image Creator**: Geração da capa do podcast
+- **Midjourney**: Geração da capa do podcast
 - **ElevenLabs**: Geração da voz humanizada para o episódio
 - **Notion**: Organização do projeto
 - **GitHub**: Versionamento dos arquivos
